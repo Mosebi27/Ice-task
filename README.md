@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mosebi27" alt="mosebi27" /></a> </p>
 
-- 🔭 I’m currently working on [Ice-task](https://mosebi27.github.io/Ice-task/)
+- 🔭 I’m currently working on [Ice-task](file:///C:/Users/RC_Student_lab/Documents/wede5020/learningHTML/inlineCSS.html)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
